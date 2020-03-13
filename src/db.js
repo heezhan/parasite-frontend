@@ -1,4 +1,4 @@
-[
+const data = [
     {
         "question": "question 1",
         "description": "descrip 1"
@@ -8,3 +8,5 @@
         "description": "descrip 2"
     }
 ]
+
+export default data
